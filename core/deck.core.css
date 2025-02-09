@@ -28,7 +28,7 @@ html, body {
 
 .slide {
   width: auto;
-  min-height: 80%;
+  min-height: 100%;
   position: relative;
 }
 
