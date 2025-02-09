@@ -298,11 +298,11 @@ h1 {
 }
 
 h2 {
-  color: #af0;
+  color: rgb(179, 0, 0);
   border-bottom-color: #ccc;
   font-weight: normal;
   font-weight: 100;
-  text-shadow: 0 0 15px #af0, 0 0 2px #fff;
+  text-shadow: 0 0 15px rgb(255, 0, 0), 0 0 2px #fff;
   border-bottom: 1px solid #333;
 }
 
@@ -379,7 +379,7 @@ a:hover, a:focus {
 }
 
 .deck-prev-link, .deck-next-link {
-  background: #f0a;
+  background: rgb(179, 0, 0);
   text-shadow: 0 0 3px #fff;
 }
 .deck-prev-link, .deck-prev-link:hover, .deck-prev-link:focus, .deck-prev-link:active, .deck-prev-link:visited, .deck-next-link, .deck-next-link:hover, .deck-next-link:focus, .deck-next-link:active, .deck-next-link:visited {
@@ -387,7 +387,7 @@ a:hover, a:focus {
 }
 .deck-prev-link:hover, .deck-prev-link:focus, .deck-next-link:hover, .deck-next-link:focus {
   text-decoration: none;
-  box-shadow: 0 0 20px #f0a, 0 0 5px #fff;
+  box-shadow: 0 0 20px rgb(179, 0, 0), 0 0 5px #fff;
 }
 
 .deck-status {
